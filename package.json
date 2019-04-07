@@ -1,0 +1,13 @@
+{
+  "name": "ssd-mobilenet-desktop",
+  "version": "1.0.0",
+  "description": "ssd on desktop using tensoflow.js",
+  "main": "src/index.js",
+  "repository": "https://github.com/kznovo/ssd-mobilenet-desktop.git",
+  "author": "Kazuya Hatta <kazuya.hatta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^1.0.0",
+    "@tensorflow/tfjs": "^1.0.4"
+  }
+}
